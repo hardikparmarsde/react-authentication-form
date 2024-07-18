@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="vvs" transform="translate(-1752 -278)">
+    <g id="Rectangle_3668" data-name="Rectangle 3668" transform="translate(1752 278)" fill="#FE3313" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <path id="delete_FILL1_wght300_GRAD0_opsz48" d="M182.33,256.617a1.382,1.382,0,0,1-1.367-1.367V242.357H180v-1.075h4.053v-.665h6.108v.665h4.053v1.075h-.962V255.25a1.382,1.382,0,0,1-1.367,1.367Zm2.438-3.076h1.075v-9.206h-1.075Zm3.6,0h1.075v-9.206h-1.075Z" transform="translate(1574.999 39.383)" fill="#FE3313"/>
+  </g>
+</svg>
